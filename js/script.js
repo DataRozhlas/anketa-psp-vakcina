@@ -2,7 +2,7 @@
 import { h, render } from "preact";
 /** @jsx h */
 
-let host = 'https://data.irozhlas.cz/anketa-covid';
+let host = 'https://data.irozhlas.cz/anketa-psp-vakcina';
 if (window.location.hostname === 'localhost') {
   host = 'http://localhost/anketa-psp-vakcina'
 }
