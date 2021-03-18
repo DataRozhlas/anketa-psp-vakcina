@@ -8,11 +8,9 @@ if (window.location.hostname === 'localhost') {
 }
 
 function printResps(obj) {
-  if (obj.o1 === '') { obj.o1 = '<i>Bez odpovědi.</i>'}
   if (obj.o2 === '') { obj.o2 = '<i>Bez odpovědi.</i>'}
-  if (obj.o3 === '') { obj.o3 = '<i>Bez odpovědi.</i>'}
   if (obj.o4 === '') { obj.o4 = '<i>Bez odpovědi.</i>'}
-  return `<p><b>1.</b> ${obj.o1}</p><p><b>2.</b> ${obj.o2}</p><p><b>3.</b> ${obj.o3}</p><p><b>4.</b> ${obj.o4}</p>`
+  return `<p><b>1.</b> ${obj.o2}</p><p><b>2.</b> ${obj.o4}</p>`
 }
 
 function onLoad(e) {
@@ -20,17 +18,43 @@ function onLoad(e) {
   render((
     <div id="anketa">
       {data.map(el => (
-        <div className="respondent">
+        <div className={'respondent ' + el.kom}>
           <img className="portret" src={el.foto} alt={el.prij} />
           <div className="bio">
             <div className="jmeno">{`${el.jm} ${el.prij}`}</div>
-            <div className="vek">{`${el.str} (${el.kom})`}</div>
+            <div className="vek">{el.str}</div>
           </div>
           <div className="odpoved" dangerouslySetInnerHTML={{ __html: printResps(el) }}></div>
         </div>
       ))}
     </div>
   ), document.getElementById("anketa-wrapper"))
+  
+  let toHide = document.getElementsByClassName('sen')
+  for (var i = 0; i < toHide.length; i++) {
+    toHide[i].style.display='none';
+  }
+
+  document.getElementById('komora').addEventListener('change', (e) => {
+    let toHide,
+        toShow;
+    if (e.target.value === 'sen') {
+      //schovej PSP
+      toHide = document.getElementsByClassName('psp')
+      toShow = document.getElementsByClassName('sen')
+    } else {
+      toHide = document.getElementsByClassName('sen')
+      toShow = document.getElementsByClassName('psp')
+    }
+
+    for (var i = 0; i < toHide.length; i++) {
+      toHide[i].style.display='none';
+    }
+    for (var i = 0; i < toShow.length; i++) {
+      toShow[i].style.display='';
+    }
+
+  })
 }
 
 const r = new XMLHttpRequest()
