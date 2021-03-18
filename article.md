@@ -7,7 +7,7 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
-"Pokud by se nám podařilo získat nějaký příslib a náš SÚKL (Státní ústav pro kontrolu léčiv - pozn. red.) by schválil tu dokumentaci a čekalo by se na schválení Evropskou lékovou agenturou, tak bychom mohli získat nějaký náskok," prohlásil premiér a šéf hnutí ANO Andrej Babiš při své únorové návštěvě Srbska, kde se zajímal o ruskou vakcínu Sputnik V.
+"Pokud by se nám podařilo získat nějaký příslib a náš SÚKL _(Státní ústav pro kontrolu léčiv - pozn. red.)_ by schválil tu dokumentaci a čekalo by se na schválení Evropskou lékovou agenturou, tak bychom mohli získat nějaký náskok," prohlásil premiér a šéf hnutí ANO Andrej Babiš při své únorové návštěvě Srbska, kde se zajímal o ruskou vakcínu Sputnik V.
 
 <a href="/zpravy-domov/rozhovor-virolog-karel-raska-covid-19-koronavirus-vakcina-sputnik_2103060922_kro" class="b-inline b-inline--left">
   <div class="b-inline__wrap">
@@ -34,7 +34,9 @@ options: [noheader, nopic] #wide, noheader (, nopic)
   </div>
 </a>
 
-Očkování touto látkou v Česku bez schválení Evropské lékové agentury prosazuje prezident Miloš Zeman. Ministr zdravotnictví za ANO Jan Blatný to ale dlouhodobě odmítá. "Dokud budu ministr zdravotnictví, tak nebudeme v Česku očkovat látkou, kterou neschválila Evropská léková agentura," prohlásil například v [rozhovoru pro iROZHLAS.cz](https://irozhl.as/cIA).
+Očkování touto látkou v Česku bez schválení Evropské lékové agentury prosazuje prezident Miloš Zeman. Minulý týden řekl, že bude chtít po premiérovi, aby z funkce [odvolal ministra zdravotnictví za ANO Jana Blatného a ředitelku SÚKL Irenu Storovou](https://irozhl.as/d00), a to právě kvůli jejich postoji ke Sputniku V. Jejím odmítáním podle něj nesou odpovědnost za úmrtí lidí v Česku na covid-19.
+
+Šéf resortu zdravotnictví na schválení EMA dlouhodobě trvá. "Dokud budu ministr zdravotnictví, tak nebudeme v Česku očkovat látkou, kterou neschválila Evropská léková agentura," prohlásil například v [rozhovoru pro iROZHLAS.cz](https://irozhl.as/cIA).
 
 Předseda vlády se k tomu dosud vyjadřoval nejednoznačně. A nejasný názor mají i poslanci jeho hnutí ANO. Z 36, kteří odpověděli v anketě, jich přes dvacet trvá na schválení vakcíny Evropskou komisí. Většině zbývajících poslanců hnutí by pak stačilo schválení českým ústavem pro kontrolu léčiv.
 
