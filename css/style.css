@@ -10,6 +10,14 @@
   margin-bottom: 20px;
 }
 
+#name_search {
+  margin-top: 5px;
+}
+
+#controls {
+  text-align: center;
+}
+
 .portret {
   width: 100px;
   height: 100px;

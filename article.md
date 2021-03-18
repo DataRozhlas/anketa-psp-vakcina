@@ -16,11 +16,14 @@ Tralala tralalí.
 _Článek [pokračuje](#cont) pod anketou._
 
 <wide>
+<div id="controls">
+Komora: 
 <select name="komora" id="komora">
 <option value="psp">Poslanecká sněmovna</option>
 <option value="sen">Senát</option>
 </select>
-<p>Filtrovat podle jména: <input type="text" id="name_search" name="name"></p>
+<p>Podle jména: <input type="text" id="name_search" name="name"></p>
+</div>
 <div id="anketa-wrapper"></div>
 </wide>
 <div id="cont"></div>
