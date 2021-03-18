@@ -21,7 +21,7 @@ function onLoad(e) {
         <div className={'respondent ' + el.kom}>
           <img className="portret" src={el.foto} alt={el.prij} />
           <div className="bio">
-            <div className="jmeno">{`${el.jm} ${el.prij}`}</div>
+            <div className="jmeno" id="jmeno">{`${el.jm} ${el.prij}`}</div>
             <div className="vek">{el.str}</div>
           </div>
           <div className="odpoved" dangerouslySetInnerHTML={{ __html: printResps(el) }}></div>
@@ -53,7 +53,23 @@ function onLoad(e) {
     for (var i = 0; i < toShow.length; i++) {
       toShow[i].style.display='';
     }
+  })
+  document.getElementById('name_search').addEventListener('input', (e) => {
+    const jm = e.target.value;
+    const ftr = document.getElementById('komora').value;
+    const els = document.getElementsByClassName('respondent')
 
+    for (var i = 0; i < els.length; i++) {
+      // musi mit classu vybranou
+      if (els[i].classList.contains(ftr)) {
+        if (els[i].children[1].children[0].textContent.toLocaleLowerCase().includes(jm.toLocaleLowerCase())) {
+          els[i].style.display='';
+        } else {
+          els[i].style.display='none';
+        }
+      }
+    }
+    
   })
 }
 

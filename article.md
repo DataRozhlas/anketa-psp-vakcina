@@ -20,6 +20,7 @@ _Článek [pokračuje](#cont) pod anketou._
 <option value="psp">Poslanecká sněmovna</option>
 <option value="sen">Senát</option>
 </select>
+<p>Filtrovat podle jména: <input type="text" id="name_search" name="name"></p>
 <div id="anketa-wrapper"></div>
 </wide>
 <div id="cont"></div>
