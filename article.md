@@ -54,36 +54,26 @@ Předseda vlády se k tomu dosud vyjadřoval nejednoznačně. A nejasný názor 
           Přehrát
           <span class="icon-svg icon-svg--play ">
     <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-play" x="0" y="0" width="100%" height="100%"></use>
-      
-    </svg>
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-play" x="0" y="0" width="100%" height="100%"></use></svg>
   </span>          <span class="icon-svg icon-svg--pause ">
     <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-pause" x="0" y="0" width="100%" height="100%"></use>
-      
-    </svg>
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-pause" x="0" y="0" width="100%" height="100%"></use></svg>
   </span>        </a>
         <p class="b-audio-player__time">00:00 / 00:00</p>
         <p class="b-audio-player__sound">
           <span class="b-audio-player__mute">
             <span class="icon-svg icon-svg--mute ">
     <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-mute" x="0" y="0" width="100%" height="100%"></use>
-      
-    </svg>
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-mute" x="0" y="0" width="100%" height="100%"></use></svg>
   </span>          </span>
           <span class="b-audio-player__sound-bar">
             <span class="icon-svg icon-svg--audio-player-dots ">
     <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%"></use>
-      
-    </svg>
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%"></use></svg>
   </span>            <span class="b-audio-player__sound-progress" style="width: 100%;">
               <span class="icon-svg icon-svg--audio-player-dots ">
     <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%"></use>
-      
-    </svg>
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%"></use></svg>
   </span>            </span>
           </span>
         </p>
