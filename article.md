@@ -1,5 +1,5 @@
 title: "ANKETA: Očkování proti koronaviru?"
-perex: "Pro očkování proti koronaviru jen vakcínami schválenými Evropská agentura pro léčivé přípravky (EMA) je většina zákonodárců, kteří se zapojili do ankety Radiožurnálu. Ze všech 281 oslovených odpovědělo přes 100 poslanců a téměř 60 senátorů. Očkování v Evropě neschválenou látkou odmítá 122 z nich. Opačný názor mají jen poslanci SPD a KSČM. Nejednotné je vládní hnutí ANO."
+perex: "Pro očkování proti koronaviru jen vakcínami schválenými Evropskou agenturou pro léčivé přípravky (EMA) je většina zákonodárců, kteří se zapojili do ankety Radiožurnálu. Ze všech 281 oslovených odpovědělo přes 100 poslanců a téměř 60 senátorů. Očkování v Evropě neschválenou látkou odmítá 122 z nich. Opačný názor mají jen poslanci SPD a KSČM. Nejednotné je vládní hnutí ANO."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
@@ -7,7 +7,7 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
-"Pokud by se nám podařilo získat nějaký příslib a náš SÚKL _(Státní ústav pro kontrolu léčiv - pozn. red.)_ by schválil tu dokumentaci a čekalo by se na schválení Evropskou lékovou agenturou, tak bychom mohli získat nějaký náskok," prohlásil premiér a šéf hnutí ANO Andrej Babiš při své únorové návštěvě Srbska, kde se zajímal o ruskou vakcínu Sputnik V.
+"Pokud by se nám podařilo získat nějaký příslib a náš SÚKL _(Státní ústav pro kontrolu léčiv – pozn. red.)_ by schválil tu dokumentaci a čekalo by se na schválení Evropskou lékovou agenturou, tak bychom mohli získat nějaký náskok," prohlásil premiér a šéf hnutí ANO Andrej Babiš při své únorové návštěvě Srbska, kde se zajímal o ruskou vakcínu Sputnik V.
 
 <a href="/zpravy-domov/rozhovor-virolog-karel-raska-covid-19-koronavirus-vakcina-sputnik_2103060922_kro" class="b-inline b-inline--left">
   <div class="b-inline__wrap">
@@ -40,7 +40,64 @@ Očkování touto látkou v Česku bez schválení Evropské lékové agentury p
 
 Předseda vlády se k tomu dosud vyjadřoval nejednoznačně. A nejasný názor mají i poslanci jeho hnutí ANO. Z 36, kteří odpověděli v anketě, jich přes dvacet trvá na schválení vakcíny Evropskou komisí. Většině zbývajících poslanců hnutí by pak stačilo schválení českým ústavem pro kontrolu léčiv.
 
-"Jsem pro, aby si ČR zajistila dosud neregistrované vakcíny. Pokud jejich používání 'posvětí' SÚKL, mělo by se očkovat. Nechal bych se očkovat vakcínou, která by byla odsouhlasena SÚKL," řekl Radiožurnálu poslanec ANO Pavel Juříček.
+<div class="b-inline b-inline--right">
+  <div class="b-inline__wrap">
+    <div class="b-audio-player js-audio" data-gtm="{&quot;contentName&quot;:&quot;Anketa Zd\u011b\u0148ky Trachtov\u00e9 o o\u010dkov\u00e1n\u00ed mezi z\u00e1konod\u00e1rci&quot;,&quot;contentID&quot;:&quot;9681597&quot;,&quot;contentCreationDateGMT&quot;:&quot;2021-03-19T08:34:28+01:00&quot;,&quot;contentCreator&quot;:&quot;plus&quot;}">
+      <div class="js-out">
+        <audio controls="" preload="metadata">
+          <source src="https://www.irozhlas.cz/sites/default/files/audios/0294b85ed79bc8fa1478fbcdb3701682.mp3" type="audio/mpeg">
+          Váš prohlížeč nepodporuje přehrávání audia.
+        </audio>
+      </div>
+      <div class="b-audio-player__controls">
+        <a href="#" class="b-audio-player__play play-btn">
+          Přehrát
+          <span class="icon-svg icon-svg--play ">
+    <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-play" x="0" y="0" width="100%" height="100%"></use>
+      
+    </svg>
+  </span>          <span class="icon-svg icon-svg--pause ">
+    <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-pause" x="0" y="0" width="100%" height="100%"></use>
+      
+    </svg>
+  </span>        </a>
+        <p class="b-audio-player__time">00:00 / 00:00</p>
+        <p class="b-audio-player__sound">
+          <span class="b-audio-player__mute">
+            <span class="icon-svg icon-svg--mute ">
+    <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-mute" x="0" y="0" width="100%" height="100%"></use>
+      
+    </svg>
+  </span>          </span>
+          <span class="b-audio-player__sound-bar">
+            <span class="icon-svg icon-svg--audio-player-dots ">
+    <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%"></use>
+      
+    </svg>
+  </span>            <span class="b-audio-player__sound-progress" style="width: 100%;">
+              <span class="icon-svg icon-svg--audio-player-dots ">
+    <svg class="icon-svg__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <use xlink:href="/sites/all/themes/custom/irozhlas/img/bg/icons-svg.svg#icon-audio-player-dots" x="0" y="0" width="100%" height="100%"></use>
+      
+    </svg>
+  </span>            </span>
+          </span>
+        </p>
+        <div class="b-audio-player__bar">
+          <div class="b-audio-player__progress"></div>
+        </div>
+      </div>
+      <p class="b-audio-player__title">
+        Anketa Zděňky Trachtové o očkování mezi zákonodárci      </p>
+    </div>
+  </div>
+</div>
+
+"Jsem pro, aby si ČR zajistila dosud neregistrované vakcíny. Pokud jejich používání ‚posvětí‘ SÚKL, mělo by se očkovat. Nechal bych se očkovat vakcínou, která by byla odsouhlasena SÚKL," řekl Radiožurnálu poslanec ANO Pavel Juříček.
 
 **Radiožurnál se zeptal poslanců na následující otázky:**
 1. Mělo by Česko používat i vakcíny neregistrované agenturou EMA? A nechal/a byste se takovou vakcínou očkovat?
@@ -67,7 +124,7 @@ Vakcíny Sputnik bez evropské registrace by se neobávala ani ministryně pro m
 
 Stejný názor mají i všichni poslanci ODS, lidovců, TOP 09, hnutí Starostové a nezávislí a Pirátů. "Tento tlak se mi nelíbí. Pojďme dodržovat postupy tak, jak jsou nastaveny. Máme evropskou agenturu, jsou zde další vakcíny v procesu schvalování. Nehledě na to, že Rusko v danou chvíli ani nemá kapacitu Sputnik vyrábět," reagoval na dotaz předseda Pirátů Ivan Bartoš.
 
-<a href="/zivotni-styl/zdravi/ockovani-vakcina-sputnik-v-dvoracek-evropska-lekova-agentura_2103130830_onz" class="b-inline b-inline--right">
+<a href="/zivotni-styl/zdravi/ockovani-vakcina-sputnik-v-dvoracek-evropska-lekova-agentura_2103130830_onz" class="b-inline b-inline--left">
   <div class="b-inline__wrap">
             <div class="b-inline__img">
           <div class="img img--16x9 img--w238 is-loaded">
@@ -100,7 +157,7 @@ Radiožurnál rovněž zjišťoval, jak se zákonodárci staví k vyjádření p
 
 Výjimkou jsou zástupci SPD, kteří žádají jeho odvolání. A taky někteří komunisté. Šéf jejich poslanců Pavel Kováčik to ale vidí jinak: "My máme k panu ministrovi i k paní šéfce SÚKL řadu připomínek, nemyslím, že právě kvůli tomuto by měli končit."
 
-Stejné otázky dostali i zástupci horní komory - odpovědělo jich bezmála šedesát. Za Blatným stojí - až na dvě výjimky - všichni, včetně předsedy horní komory Miloše Vystrčila (ODS). "Nevidím žádný důvod, proč by kvůli této věci měl být pan ministr Blatný kritizován. Naopak, myslím, že to je naprosto správný postoj," uvedl šéf Senátu.
+Stejné otázky dostali i zástupci horní komory – odpovědělo jich bezmála šedesát. Za Blatným stojí – až na dvě výjimky – všichni, včetně předsedy horní komory Miloše Vystrčila (ODS). "Nevidím žádný důvod, proč by kvůli této věci měl být pan ministr Blatný kritizován. Naopak, myslím, že to je naprosto správný postoj," uvedl šéf Senátu.
 
 Očkování vakcínou, kterou neschválila Evropská komise, pak podporují senátoři jen ojediněle.
 
